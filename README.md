@@ -44,6 +44,12 @@ The *"Time-Wasters on Social Media"* dataset is a comprehensive collection of us
 
 - **Analysis of Overall Insight Engine Data**
 - **Key Performance Indicators (KPI) of Overall Insights Engine**
+- **Connection Type Usage by Profession**
+- **Average Addiction Level by Age Group**
+- **Self-Control Across Genders and Platforms**
+- **Time Spent by Age Group**
+- **Monthly Trends in Social Media Engagement**
+- **Top 4 Social Media Plateform**
 
 ---
 
