@@ -14,7 +14,7 @@ The *"Time-Wasters on Social Media"* dataset is a comprehensive collection of us
 
 ## **Deployed App**
 
-**Insights Engine**: *[Add your app link here]*
+**Insights Engine**: *[https://3cnuub2d2u6khfhunf5zfh.streamlit.app/]*
 
 ---
 
