@@ -545,8 +545,8 @@ footer = """
 }
 </style>
 <div class="footer">
-    <p>☀️Developed by Team Insights_Engine_008☀️ </p>
-    <p>Shivani  , Zoya , Ritika </p>
+    <p>☀️Developed by Shivani Singh☀️ </p>
+    
 </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
